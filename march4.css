@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.gallery1{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:flex-start;
+    gap: 10px;
+    height: 50vh;
+    width: 100vw;
+    margin-bottom: 20px;
+}
+.gallery2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 10px;
+    height: 50vh;
+    width: 100vw;
+
+
+}
+.nature7{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content:center ;
+    align-items: flex-end;
+    border-radius: 50%;
+
+}
+.image{
+    text-align: center;
+    margin-top: 10px;
+    font-size: larger;
+    margin-bottom: 20px;
+}
+
